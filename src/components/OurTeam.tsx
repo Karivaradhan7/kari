@@ -11,18 +11,18 @@ export const OurTeam = () => {
   const teamMembers = [
     {
       name: "Aaron Sonnie",
-      role: "Founder & Lead Developer",
-      bio: "Passionate about creating innovative educational solutions. Leads the technical development and strategic direction of Aptora.",
+      role: "Founder & Backend Developer",
+      bio: "Passionate backend developer with expertise in building scalable, efficient, and secure systems. ",
       photoUrl: "/lovable-uploads/7ac96ef4-2820-482a-ae2e-a05176205147.png",
       linkedin: "https://linkedin.com/in/aaronsonnie",
       github: "https://github.com/aaronsonnie",
       email: "aaron@aptora.com"
     },
     {
-      name: "Karivardhan",
-      role: "Co-Founder & Tester",
-      bio: "Ensures the highest quality user experience through rigorous testing methodologies and quality assurance practices.",
-      photoUrl: kariPhoto,
+      name: "Karivaradhan",
+      role: "Founder & TeamLead",
+      bio: "Passionate about creating innovative educational solutions. Leads the technical development and strategic direction of Aptora.",
+      photoUrl: "/lovable-uploads/WhatsApp Image 2025-03-27 at 8.17.17 PM.jpeg",
       linkedin: "https://linkedin.com/in/karivardhan",
       github: "https://github.com/karivardhan",
       email: "kari@aptora.com"
@@ -38,7 +38,7 @@ export const OurTeam = () => {
     },
     {
       name: "Thrithwik",
-      role: "Co-Founder & Backend Developer",
+      role: "Co-Founder &  Developer",
       bio: "Develops the robust infrastructure that powers Aptora's AI learning capabilities and data processing.",
       photoUrl: thrithwikPhoto,
       linkedin: "https://linkedin.com/in/thrithwik",
